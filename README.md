@@ -99,11 +99,10 @@ My goal is to become a skilled **full-stack developer** with a deep understandin
 
 ## 🌟 Featured Projects  
 
-🔹 **[Portfolio Website](https://github.com/qxl-dev)** – Personal web portfolio showcasing projects and skills.  
-🔹 **[Mini Data Dashboard](#)** – Simple analytics dashboard built with Python, Pandas, and Matplotlib.  
-🔹 **[Responsive Web Design](#)** – A multi-page responsive website created with HTML, CSS, and Bootstrap.  
+🔹 **[Skill Pro Institute](https://github.com/qxl-dev/Skill_Pro_Website)** – Demon Version for a University Website with Multi Role Authentication  
+🔹 **[Eco Stay Retreat](https://github.com/qxl-dev/EcoStay_Retreat)** – A Android aApllication Similar to a Hotel Booking System with Backend Database Connectivity.  
 
-*(Add real project links as your portfolio grows!)*
+
 
 ---
 
