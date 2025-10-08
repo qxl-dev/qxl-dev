@@ -72,21 +72,9 @@ My goal is to become a skilled **full-stack developer** with a deep understandin
 📘 *Diploma in IT* (2023)  
 📗 *Diploma in English* (2023)  
 
-**Department of Examinations, Sri Lanka**  
-📚 *G.C.E. Advanced Level (Technology Stream – Engineering Tech)* – 2023  
-🧾 *G.C.E. Ordinary Level* – 2020  
 
 ---
 
-## 💼 Experience  
-
-**Customer Service Trainee – Cargills Ceylon PLC**  
-📅 *May 2024 – Sep 2024*  
-- Enhanced communication and teamwork through direct customer interaction.  
-- Adapted quickly in a fast-paced environment while maintaining professionalism.  
-- Strengthened problem-solving and data-handling abilities under pressure.  
-
----
 
 ## 📈 GitHub Stats  
 
